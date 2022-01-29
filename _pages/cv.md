@@ -17,24 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Maxtrino, Cagliari, IT
+  * .Net Software Developer Intern, July 2019 – Sept. 2019
+* Juvenile Court
+  * Full Stack Web Developer Intern, March 2019 - July 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Proficiency
+  * Python
+  * C++
+* Languages
+  * English CAE
+  * Italian Mothertongue
 
 Publications
 ======
