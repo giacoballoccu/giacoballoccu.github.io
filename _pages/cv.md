@@ -22,6 +22,11 @@ Work experience
 * Juvenile Court
   * Full Stack Web Developer Intern, March 2019 - July 2019
 
+Projects
+======
+<ul>{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
 
 Skills
 ======
