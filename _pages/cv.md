@@ -37,25 +37,29 @@ Skills
   * English CAE
   * Italian Mothertongue
 
+{% if site.publications}
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications %}
+  {% include post %}
+{% endfor %}</ul>
+{% endif %}
 
-<!---
+{% if site.talks %}
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include post %}
   {% endfor %}</ul>
--->
+{% endif %}
+
+{% if site.teaching %}
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+<ul>{% for post in site.teaching %}
+  {% include post %}
+{% endfor %}</ul>
+{% endif %}
 Service and leadership
 ======
 * Student Volunteer: ACM Recsys21
