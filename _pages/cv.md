@@ -49,6 +49,7 @@ Projects
   * A compiler following the given rules written in Ocaml (Team Project, 3 people, 2019)
 * [Algorithms ABC]()
   * Ten programs each one having as subject a basic algorithm including sorting, string matching, graphs, trees, hashing, linked lists. (2017)
+
 ### Side Projects
 * CovidItalia.io
   * A simple website that shows leadearbords with stats directly extracted by the daily government reports of the covid-19 cases in Italy with different granularities (Region, Province) and a Tableau Dashboard with more statistics. Hosted on AWS, built with Django for a week-long hackathon. (Team Project, 2 people, 2020)
