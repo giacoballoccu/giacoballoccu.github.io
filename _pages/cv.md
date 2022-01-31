@@ -37,7 +37,7 @@ Skills
   * English CAE
   * Italian Mothertongue
 
-{% if site.publications}
+{% if site.publications %}
 Publications
 ======
 <ul>{% for post in site.publications %}
@@ -60,6 +60,7 @@ Teaching
   {% include post %}
 {% endfor %}</ul>
 {% endif %}
+
 Service and leadership
 ======
 * Student Volunteer: ACM Recsys21
