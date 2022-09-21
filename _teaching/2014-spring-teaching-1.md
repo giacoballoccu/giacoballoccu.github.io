@@ -1,4 +1,4 @@
-## Assistent Professor of Algorithm and Data Structures   
-### University of Cagliari, Applied Computer Science and Data Analytics (IADA)"   
-#### 2023-03-01  
-#### "Cagliari, Italy"  
+## Teaching Assistant of Algorithm and Data Structures   
+### University of Cagliari, Applied Computer Science and Data Analytics (IADA)  
+#### Academic year 2021-2022
+#### Cagliari, Italy
