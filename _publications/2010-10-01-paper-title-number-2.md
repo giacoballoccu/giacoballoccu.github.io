@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Recency, Popularity, and Diversity of Explanations in Knowledge-based Recommendation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-2
+excerpt: 'Discussion paper'
+date: 2022/07/2022
+venue: '12th Italian Information Retrieval Workshop June 29th - 30th, 2022 Milano, Italy'
+paperurl: 'http://ceur-ws.org/Vol-3177/paper18.pdf'
+citation: 'Giacomo Balloccu, Ludovico Boratto, Gianni Fenu, and Mirko Marras. 2022. Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22). Association for Computing Machinery, New York, NY, USA, 646–656. https://doi.org/10.1145/3477495.3532041'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
