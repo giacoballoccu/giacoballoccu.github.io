@@ -1,7 +1,7 @@
 ---
 title: "Recency, Popularity, and Diversity of Explanations in Knowledge-based Recommendation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Discussion paper'
 date: 2022/07/2022
 venue: '12th Italian Information Retrieval Workshop June 29th - 30th, 2022 Milano, Italy'

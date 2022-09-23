@@ -1,7 +1,7 @@
 ---
 title: "XRecSys: A framework for path reasoning quality in explainable recommendation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'Journal paper'
 date: 2022/08/01
 venue: 'Elsevier Software Impact Vol. 14'

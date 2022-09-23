@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Recommendation Reasoning through Knowledge Graphs for Explanation Path Quality"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Journal paper'
 date: 2022/09/11
 venue: 'Elsevier Software Impact Vol. 14'
