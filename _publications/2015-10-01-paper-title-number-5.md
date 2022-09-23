@@ -1,7 +1,7 @@
 ---
 title: "Hands on Explainable Recommender Systems with Knowledge Graphs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-3
+permalink: /publication/2009-10-01-paper-title-number-5
 excerpt: 'Tutorial Paper'
 date: 2022/08/01
 venue: 'Elsevier Software Impact Vol. 14'
