@@ -69,20 +69,17 @@ Skills
   * English CAE
   * Italian Mothertongue
 
-Publications
-======
-Nothing to show
-
-
 Talks
 ======
 University of Glasgow - Reinforcement recommendation reasoning through knowledge graphs for explanation path quality (13 February, 2023)
 
 Teaching
 ======
+* [Pula Summer School](https://www.puntocartesiano.it/progetti/ri-creazione/campus/docenti/), Sardegna Ricerche, Cagliari, Italy 
 * Applicated Computer Science and Data Analytics (IADA), University of Cagliari, Cagliari, Italy
   * Tutor of Algorithm and Data Structures 2022-2023
   * Tutor of Algorithm and Data Structures 2021-2022
+
 Service and leadership
 ======
 * Student Volunteer: ACM Recsys23
