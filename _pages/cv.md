@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Recommender Systems, University of Cagliari, 2021 - Present
+* Ph.D in Recommender Systems, University of Cagliari, 2021 - Expected Oct. 2024
 * M.S. in Computer Science, University of Cagliari, 2019 - 2021
 * B.S. in Computer Science, University of Cagliari, 2016 - 2019
 
 Work experience
 ======
+* Amazon, Edinburgh, UK
+  * Applied Scientist II Intern, May 2023 – August 2024
+* Amazon, Edinburgh, UK
+  * Applied Scientist II Intern, Nov. 2022 – March 2023
 * Maxtrino, Cagliari, IT
   * .Net Software Developer Intern, July 2019 – Sept. 2019
 * Juvenile Court
@@ -59,6 +63,7 @@ Skills
 ======
 * Programming Proficiency
   * Python
+  * Java Spark
   * C++
 * Languages
   * English CAE
@@ -71,14 +76,16 @@ Nothing to show
 
 Talks
 ======
-Nothing to show
-
+University of Glasgow - Reinforcement recommendation reasoning through knowledge graphs for explanation path quality (13 February, 2023)
 
 Teaching
 ======
 * Applicated Computer Science and Data Analytics (IADA), University of Cagliari, Cagliari, Italy
-  * Tutor of Algorithm and Data Structures 2022-03-01
-
+  * Tutor of Algorithm and Data Structures 2022-2023
+  * Tutor of Algorithm and Data Structures 2021-2022
 Service and leadership
 ======
+* Student Volunteer: ACM Recsys23
+* LeadTheFuture Mentorship: Mentor 2022
+* HuggingFace Student Ambassador 2022
 * Student Volunteer: ACM Recsys21
