@@ -1,5 +1,5 @@
 ---
-title: 'PEARLM: Pathway Language Models for Accurate, Explainable, and Faithful Recommendation over Knowledge Graphs'
+title: 'Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph'
 collection: publications
 permalink: /publication/2023-X-X-FP-X
 excerpt: 'Full paper'
