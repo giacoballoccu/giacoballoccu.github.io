@@ -83,10 +83,10 @@ Teaching
 
 **Thesis Supervision**
 ======
-* Alessandro Soccol
-* Simone Cocco
-* Andrea Martis
-* Giovanni Murgia
+* Alessandro Soccol: Learning KG represantations via LMs for multi-task
+* Simone Cocco: Human-like Explanations via LMs
+* Andrea Martis: RAG for education
+* Giovanni Murgia: Food Explainable Recommendation
   
 Service and leadership
 ======
