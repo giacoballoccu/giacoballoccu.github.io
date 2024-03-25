@@ -77,11 +77,23 @@ Teaching
 ======
 * [Pula Summer School](https://www.puntocartesiano.it/progetti/ri-creazione/campus/docenti/), Sardegna Ricerche, Cagliari, Italy 
 * Applicated Computer Science and Data Analytics (IADA), University of Cagliari, Cagliari, Italy
+  * Tutor of Algorithm and Data Structures 2023-2024
   * Tutor of Algorithm and Data Structures 2022-2023
   * Tutor of Algorithm and Data Structures 2021-2022
 
+**Thesis Supervision**
+======
+* Alessandro Soccol
+* Simone Cocco
+* Andrea Martis
+* Giovanni Murgia
+  
 Service and leadership
 ======
+* Program Committee:
+  * Recsys 2024
+  * ECIR 2024
+  * CIKM 2024	
 * Student Volunteer: ACM Recsys23
 * LeadTheFuture Mentorship: Mentor 2022
 * HuggingFace Student Ambassador 2022
