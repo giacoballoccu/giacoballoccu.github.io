@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Amazon, Edinburgh, UK
-  * Applied Scientist II Intern, May 2023 – August 2024
+  * Applied Scientist II Intern, May 2024 – August 2024
 * Amazon, Edinburgh, UK
   * Applied Scientist II Intern, Nov. 2022 – March 2023
 * Maxtrino, Cagliari, IT
